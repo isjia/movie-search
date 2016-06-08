@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-demo-movie",
+  "authors": [
+    "Jia Qian <isjia@163.com>"
+  ],
+  "description": "a demo site",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
